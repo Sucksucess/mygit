@@ -1,7 +1,7 @@
 /*
 	函数功能：使用malloc函数来编写calloc函数的原型
 	并且测试
-	经过测试，函数功能可以实现
+	经过测试，函数功能可以实现，这个代码被上传
 */
 #include <stdio.h>
 #include <stdlib.h>
